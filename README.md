@@ -8,6 +8,12 @@ Built to demonstrate a full retrieval-augmented generation (RAG) pipeline
 end-to-end: chunking strategy, vector search, and grounded LLM generation —
 not just prompt engineering wrapped around an API call.
 
+## Screenshots
+
+| Login | Chat with grounded, cited answer |
+|---|---|
+| ![Login screen](docs/screenshot-login.png) | ![Chat interface](docs/screenshot-chat.png) |
+
 ## How it works
 
 1. **Ingestion** — a PDF is parsed page-by-page, split into overlapping
